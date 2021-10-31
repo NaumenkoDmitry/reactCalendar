@@ -1,0 +1,19 @@
+
+/* .days{
+  display: flex;
+  margin: 10px;
+  color: red;
+} */
+.weekNamesContainer {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.weekNames {
+  width: 200px;
+  font-size: 1.5rem;
+  color: #eb1b57;
+  font-weight: bold;
+  display: flex;
+justify-content: center;  
+}
